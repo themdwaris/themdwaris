@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 My portfolio [https://portfolio-waris.netlify.app](https://portfolio-waris.netlify.app)
+- 👨‍💻 My portfolio [https://portfolio-waris.netlify.app](https://mdwaris.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
