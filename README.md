@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/themdwaris" target="blank"><img src="https://img.shields.io/twitter/follow/themdwaris?logo=twitter&style=for-the-badge" alt="themdwaris" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 **MERN Developer**
 
 - 👨‍💻 My portfolio [https://themdwaris.netlify.app](https://themdwariss.netlify.app)
 
